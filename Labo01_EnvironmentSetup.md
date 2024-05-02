@@ -10,45 +10,52 @@ If you have opted for a graphical installation, provide screenshots and describe
 
 ### Cloud cmd line interface - AWS Cli
 
-```
-//TODO all commands used and the results obtained
-```
+
+- https://awscli.amazonaws.com/AWSCLIV2.msi
+
+![img.png](img.png)
+
 
 ### IDE - Intellij
 
-```
-//TODO all commands used and the results obtained
-```
+
+- https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
+
+
+![img_1.png](img_1.png)
 
 ### Containers Engins - Docker
 
-```
-//TODO all commands used and the results obtained
-```
+- https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*bwh3cn*_ga*NjgwMzUxNjc1LjE3MTM2Mzg3MzA.*_ga_XJWPQMJYHQ*MTcxNDAyNzc2Ni4zLjEuMTcxNDAyNzgxNS4xMS4wLjA.
+
+![img_2.png](img_2.png)
+![img_7.png](img_7.png)
 
 ### Versioning - Git + Git flow
 
-```
-//TODO all commands used and the results obtained
-```
+- https://git-scm.com/download/win
+
+![img_3.png](img_3.png)
+![img_6.png](img_6.png)
 
 ### IDE Plugin - Docker plugin for IntelliJ
 
-```
-//TODO all commands used and the results obtained
-```
+- Download the plugin from the IntelliJ marketplace
+
+![img_4.png](img_4.png)
 
 ### Development Kit - JDK
 
-```
-//TODO all commands used and the results obtained
-```
+- https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi
+
+![img_5.png](img_5.png)
 
 ### Package manager - Maven
 
-```
-//TODO all commands used and the results obtained
-```
+- https://dlcdn.apache.org/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip
+- https://maven.apache.org/install.html
+
+![img_8.png](img_8.png)
 
 ## Schema
 
