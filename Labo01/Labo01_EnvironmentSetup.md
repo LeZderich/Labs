@@ -76,19 +76,19 @@ Answer the questions below, giving reasons for your answer (link, source).
 * How does the AWS Cli interact with the cloud ?
 
 ```
-//TODO answer the question
+When you use the AWS CLI, the AWS CLI sends the commands to the AWS cloud, and the cloud executes them.
 ```
 
-* What other ways do we have of dialoguing/interacting with the AWS cloud if we wanted to do without the CLI?
+* What other ways do we have of dialoging/interacting with the AWS cloud if we wanted to do without the CLI?
 
 ```
-//TODO answer the question
+With the AWS management console, you can interact with the AWS cloud.
 ```
 
 * What commands do I need to run in the CLI to start an ec2 instance?
 
 ```
-//TODO answer the question
+aws ec2 run-instances --image-id ami-0c55b159cbfafe1f0 --count 1 --instance-type t2.micro --key-name MyKeyPair
 ```
 
 ### Docker Engine
@@ -96,13 +96,13 @@ Answer the questions below, giving reasons for your answer (link, source).
 * What type of hypervisor does Docker use?
 
 ```
-//TODO answer the question
+Docker uses a type 2 hypervisor.
 ```
 
 * What role does the Docker Desktop play in the Docker architecture?
 
 ```
-//TODO answer the question
+Docker Desktop communicates with the Docker Engine to build, share and run containers.
 ```
 
 ### Java Environment
@@ -110,7 +110,7 @@ Answer the questions below, giving reasons for your answer (link, source).
 * JDK, JRE, JVM... what's the difference?
 
 ```
-//TODO answer the question
+Java Dev Kit is only for developpers, Java Runetime Environment is a extendes version of the JVM with libraries (used on servers), Java Virtual Machine is the execution environment for Java applications.
 ```
 
 ### Maven
@@ -118,7 +118,7 @@ Answer the questions below, giving reasons for your answer (link, source).
 * What is the command you need to use Maven to retrieve dependencies (and only that)?
 
 ```
-//TODO answer the question
+
 ```
 
 
